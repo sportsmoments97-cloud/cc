@@ -1,0 +1,6 @@
+debug/
+debug_*.py
+__pycache__/
+*.pyc
+.git/
+.env
